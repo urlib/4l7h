@@ -1,0 +1,870 @@
+2019-07-04	21:06:10:046	 488	b6c	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-04	21:06:10:124	 488	b6c	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-04	21:06:10:186	 488	b6c	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-04	21:06:10:046	 488	b6c	Service	*************
+2019-07-04	21:06:10:311	 488	b6c	Service	** START **  Service: Service startup
+2019-07-04	21:06:10:373	 488	b6c	Service	*********
+2019-07-04	21:06:10:576	 488	b6c	Agent	  * WU client version 7.6.7601.23806
+2019-07-04	21:06:10:638	 488	b6c	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-04	21:06:10:638	 488	b6c	Agent	  * Access type: No proxy
+2019-07-04	21:06:10:638	 488	b6c	Agent	  * Network state: Connected
+2019-07-04	21:06:12:495	 488	b6c	DtaStor	Default service for AU is {00000000-0000-0000-0000-000000000000}
+2019-07-04	21:06:12:635	 488	b6c	DtaStor	Default service for AU is {9482F4B4-E343-43B6-B170-9A65BC822C77}
+2019-07-04	21:06:12:854	 488	b6c	Agent	WARNING: Failed to read the service id for re-registration 0x80070002
+2019-07-04	21:06:12:963	 488	b6c	Agent	WARNING: Missing service entry in the backup data store; cleaning up
+2019-07-04	21:06:17:674	 488	b6c	AU	Sending shutdown notification
+2019-07-04	21:06:17:674	 488	b6c	AU	AU initiates service shutdown
+2019-07-04	21:06:17:814	 488	b6c	Report	CWERReporter::Init succeeded
+2019-07-04	21:06:17:814	 488	b6c	Agent	Created new random SusClientId 48cd4fa6-4b75-486d-8f29-acf1ed3e63e8. Old Id: none.
+2019-07-04	21:06:17:814	 488	b6c	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-04	21:06:17:814	 488	b6c	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-04	21:06:17:814	 488	b6c	Report	  * OS Product Type = 0x00000001
+2019-07-04	21:06:18:189	 488	b6c	Report	  * Computer Brand = LENOVO
+2019-07-04	21:06:18:189	 488	b6c	Report	  * Computer Model = F0CHCTO1WW
+2019-07-04	21:06:18:220	 488	b6c	Report	  * Bios Revision = M12KT24A
+2019-07-04	21:06:18:220	 488	b6c	Report	  * Bios Name = hLENOVO BIOS Rev:M12KT24A 0.0
+2019-07-04	21:06:18:220	 488	b6c	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-04	21:06:18:220	 488	b6c	Report	  * Locale ID = 2052
+2019-07-04	21:06:18:329	 488	b6c	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-04	21:06:18:470	 488	b6c	Service	*********
+2019-07-04	21:06:18:470	 488	b6c	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-04	21:06:18:470	 488	b6c	Service	*************
+2019-07-04	21:14:10:806	 748	be0	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-04	21:14:10:821	 748	be0	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-04	21:14:10:821	 748	be0	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-04	21:14:10:806	 748	be0	Service	*************
+2019-07-04	21:14:10:821	 748	be0	Service	** START **  Service: Service startup
+2019-07-04	21:14:10:821	 748	be0	Service	*********
+2019-07-04	21:14:11:055	 748	be0	Agent	  * WU client version 7.6.7601.23806
+2019-07-04	21:14:11:055	 748	be0	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-04	21:14:11:055	 748	be0	Agent	  * Access type: No proxy
+2019-07-04	21:14:11:055	 748	be0	Agent	  * Network state: Connected
+2019-07-04	21:14:56:561	 748	be0	Report	CWERReporter::Init succeeded
+2019-07-04	21:14:56:561	 748	be0	Agent	***********  Agent: Initializing Windows Update Agent  ***********
+2019-07-04	21:14:56:561	 748	be0	Agent	  * Prerequisite roots succeeded.
+2019-07-04	21:14:56:561	 748	be0	Agent	***********  Agent: Initializing global settings cache  ***********
+2019-07-04	21:14:56:561	 748	be0	Agent	  * WSUS server: <NULL>
+2019-07-04	21:14:56:561	 748	be0	Agent	  * WSUS status server: <NULL>
+2019-07-04	21:14:56:561	 748	be0	Agent	  * Target group: (Unassigned Computers)
+2019-07-04	21:14:56:561	 748	be0	Agent	  * Windows Update access disabled: No
+2019-07-04	21:14:56:576	 748	be0	DnldMgr	Download manager restoring 0 downloads
+2019-07-04	21:14:56:576	 748	be0	AU	###########  AU: Initializing Automatic Updates  ###########
+2019-07-04	21:14:56:576	 748	be0	AU	AU setting next sqm report timeout to 2019-07-04 13:14:56
+2019-07-04	21:14:56:576	 748	be0	AU	AU setting next featured software notification timeout to 2019-07-04 13:14:56
+2019-07-04	21:14:56:576	 748	be0	AU	AU featured software notification sequence number is 8197, Generation Time:2019-07-04 13:14:56
+2019-07-04	21:14:56:576	 748	be0	AU	  # AU is not configured yet
+2019-07-04	21:14:56:576	 748	be0	AU	  # Will interact with non-admins (Non-admins are elevated (User preference))
+2019-07-04	21:14:56:576	 748	be0	AU	  # Accelerated install is required
+2019-07-04	21:14:56:576	 748	be0	Agent	Switching to hardware-verified ClientId.
+2019-07-04	21:14:56:576	 748	be0	AU	AU is not configured yet, generating timeout to launch setup wizard
+2019-07-04	21:14:56:592	 748	be0	AU	Initializing featured updates
+2019-07-04	21:14:56:592	 748	be0	AU	Found 0 cached featured updates
+2019-07-04	21:14:57:216	 748	be0	Agent	Created new random SusClientId 741826a7-f3ef-4873-b3b6-312bd664e84f. Old Id: 48cd4fa6-4b75-486d-8f29-acf1ed3e63e8.
+2019-07-04	21:14:57:216	 748	be0	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-04	21:14:57:216	 748	be0	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-04	21:14:57:216	 748	be0	Report	  * OS Product Type = 0x00000001
+2019-07-04	21:14:57:247	 748	be0	Report	  * Computer Brand = LENOVO
+2019-07-04	21:14:57:247	 748	be0	Report	  * Computer Model = F0CHCTO1WW
+2019-07-04	21:14:57:263	 748	be0	Report	  * Bios Revision = M12KT24A
+2019-07-04	21:14:57:263	 748	be0	Report	  * Bios Name = hLENOVO BIOS Rev:M12KT24A 0.0
+2019-07-04	21:14:57:263	 748	be0	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-04	21:14:57:263	 748	be0	Report	  * Locale ID = 2052
+2019-07-04	21:14:57:356	 748	be0	AU	Successfully wrote event for AU health state:0
+2019-07-04	21:14:57:356	 748	be0	AU	Successfully wrote event for AU health state:0
+2019-07-04	21:14:57:356	 748	be0	AU	AU finished delayed initialization
+2019-07-04	21:14:57:356	 748	be0	AU	AU setting next sqm report timeout to 2019-07-05 13:14:57
+2019-07-04	21:21:10:672	 748	640	DtaStor	Default service for AU is {9482F4B4-E343-43B6-B170-9A65BC822C77}
+2019-07-04	21:21:10:682	 748	640	Agent	AddTargetedServiceMapping: 0A45A2AA-D38C-41EF-9FF8-571C5E36B5B4 -> 9482F4B4-E343-43B6-B170-9A65BC822C77
+2019-07-04	21:21:11:002	 748	640	Agent	WARNING: could not delete Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\Services\0a45a2aa-d38c-41ef-9ff8-571c5e36b5b4 service registry key 0x80070002
+2019-07-04	21:21:11:002	 748	640	Agent	WARNING: Failed to delete service from the backup store, error = 0x80070002
+2019-07-04	21:21:11:042	 748	640	Agent	RemoveTargetedServiceMapping: 0A45A2AA-D38C-41EF-9FF8-571C5E36B5B4 -> 9482F4B4-E343-43B6-B170-9A65BC822C77
+2019-07-04	21:22:24:262	6192	1be4	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-04	21:22:24:262	6192	1be4	Misc	  = Process: C:\Windows\SysWOW64\wusa.exe
+2019-07-04	21:22:24:262	6192	1be4	Misc	  = Module: C:\Windows\SysWOW64\wuapi.dll
+2019-07-04	21:22:24:262	6192	1be4	COMAPI	-----------  COMAPI: IUpdateServiceManager::AddScanPackageService  -----------
+2019-07-04	21:22:24:262	6192	1be4	COMAPI	  - ServiceName = Windows Update 独立安装程序
+2019-07-04	21:22:24:263	6192	1be4	COMAPI	  - ScanFileLocation = C:\64a0e9c13fd4f64731b526a408\wsusscan.cab
+2019-07-04	21:22:24:445	 748	8bc	Misc	Validating signature for C:\Windows\SoftwareDistribution\ScanFile\af862bd9-e4a1-4d98-95cd-c34fc1a01c2d\Source.cab with dwProvFlags 0x00000080:
+2019-07-04	21:22:26:218	 748	8bc	Misc	 Microsoft signed: Yes
+2019-07-04	21:22:26:848	 748	8bc	DtaStor	Default service for AU is {9482F4B4-E343-43B6-B170-9A65BC822C77}
+2019-07-04	21:22:26:849	6192	1be4	COMAPI	  - Added scan package service, ServiceID = {AF862BD9-E4A1-4D98-95CD-C34FC1A01C2D} Third party service
+2019-07-04	21:22:26:997	6192	1be4	COMAPI	-------------
+2019-07-04	21:22:26:997	6192	1be4	COMAPI	-- START --  COMAPI: Search [ClientId = wusa]
+2019-07-04	21:22:26:997	6192	1be4	COMAPI	---------
+2019-07-04	21:22:27:002	 748	bf0	Agent	*************
+2019-07-04	21:22:27:003	6192	1be4	COMAPI	<<-- SUBMITTED -- COMAPI: Search [ClientId = wusa]
+2019-07-04	21:22:27:002	 748	bf0	Agent	** START **  Agent: Finding updates [CallerId = wusa]
+2019-07-04	21:22:27:037	 748	bf0	Agent	*********
+2019-07-04	21:22:27:037	 748	bf0	Agent	  * Online = Yes; Ignore download priority = No
+2019-07-04	21:22:27:037	 748	bf0	Agent	  * Criteria = "DeploymentAction='Installation'"
+2019-07-04	21:22:27:037	 748	bf0	Agent	  * ServiceID = {AF862BD9-E4A1-4D98-95CD-C34FC1A01C2D} Third party service
+2019-07-04	21:22:27:037	 748	bf0	Agent	  * Search Scope = {Machine}
+2019-07-04	21:22:27:367	 748	bf0	PT	+++++++++++  PT: Synchronizing server updates  +++++++++++
+2019-07-04	21:22:27:367	 748	bf0	PT	  + Offline serviceId = {AF862BD9-E4A1-4D98-95CD-C34FC1A01C2D}
+2019-07-04	21:22:27:739	 748	bf0	PT	WARNING: Cached cookie has expired or new PID is available
+2019-07-04	21:22:33:243	 748	bf0	PT	+++++++++++  PT: Synchronizing extended update info  +++++++++++
+2019-07-04	21:22:33:243	 748	bf0	PT	  + Offline serviceId = {AF862BD9-E4A1-4D98-95CD-C34FC1A01C2D}
+2019-07-04	21:22:33:342	 748	bf0	Agent	  * Added update {17A57D91-B6D6-4882-AD35-3A3F313B2CD8}.501 to search result
+2019-07-04	21:22:33:342	 748	bf0	Agent	  * Found 1 updates and 57 categories in search; evaluated appl. rules of 126 out of 259 deployed entities
+2019-07-04	21:22:33:342	 748	bf0	Agent	*********
+2019-07-04	21:22:33:342	 748	bf0	Agent	**  END  **  Agent: Finding updates [CallerId = wusa]
+2019-07-04	21:22:33:342	 748	bf0	Agent	*************
+2019-07-04	21:22:33:344	6192	18e4	COMAPI	>>--  RESUMED  -- COMAPI: Search [ClientId = wusa]
+2019-07-04	21:22:33:388	6192	18e4	COMAPI	  - Updates found = 1
+2019-07-04	21:22:33:388	6192	18e4	COMAPI	---------
+2019-07-04	21:22:33:388	6192	18e4	COMAPI	--  END  --  COMAPI: Search [ClientId = wusa]
+2019-07-04	21:22:33:388	6192	18e4	COMAPI	-------------
+2019-07-04	21:22:33:414	 748	1bdc	DnldMgr	***********  DnldMgr: Copy update to cache [UpdateId = {C26D015C-969F-4B9E-9631-EAB89E338EFE}.501]  ***********
+2019-07-04	21:22:33:422	 748	1bdc	DnldMgr	Asking handler to generate non-range requests.
+2019-07-04	21:22:33:422	 748	1bdc	Handler	Generating request for CBS update C26D015C-969F-4B9E-9631-EAB89E338EFE in sandbox C:\Windows\SoftwareDistribution\Download\d7406ee259807c3602f562b9ca7b4046_ctc
+2019-07-04	21:22:33:423	 748	1bdc	Handler	Selecting self-contained because update does not have express payload.
+2019-07-04	21:22:33:423	 748	1bdc	Handler	Selected payload type is ptSelfContained
+2019-07-04	21:22:33:423	 748	1bdc	Handler	Detected download state is dsStart
+2019-07-04	21:22:33:424	 748	1bdc	Handler	Adding Windows6.1-KB4015546-x64.cab (entire file) to request list.
+2019-07-04	21:22:33:425	 748	1bdc	Handler	Request generation for CBS update complete with hr=0x0 and pfResetSandbox=0 
+2019-07-04	21:22:33:665	 748	1bdc	Misc	Validating signature for C:\Windows\SoftwareDistribution\Download\d7406ee259807c3602f562b9ca7b4046_ctc\Windows6.1-KB4015546-x64.cab with dwProvFlags 0x00000080:
+2019-07-04	21:22:34:224	 748	1bdc	Misc	 Microsoft signed: Yes
+2019-07-04	21:22:34:224	 748	1bdc	DnldMgr	Asking handler to generate non-range requests.
+2019-07-04	21:22:34:224	 748	1bdc	Handler	Generating request for CBS update C26D015C-969F-4B9E-9631-EAB89E338EFE in sandbox C:\Windows\SoftwareDistribution\Download\d7406ee259807c3602f562b9ca7b4046_ctc
+2019-07-04	21:22:34:224	 748	1bdc	Handler	Selecting self-contained because update does not have express payload.
+2019-07-04	21:22:34:224	 748	1bdc	Handler	Selected payload type is ptSelfContained
+2019-07-04	21:22:34:224	 748	1bdc	Handler	Detected download state is dsHavePackage
+2019-07-04	21:22:34:224	 748	1bdc	Handler	Request generation for CBS update complete with hr=0x0 and pfResetSandbox=0 
+2019-07-04	21:22:34:345	6192	1be4	COMAPI	-------------
+2019-07-04	21:22:34:345	6192	1be4	COMAPI	-- START --  COMAPI: Install [ClientId = wusa]
+2019-07-04	21:22:34:345	6192	1be4	COMAPI	---------
+2019-07-04	21:22:34:345	6192	1be4	COMAPI	  - Allow source prompts: Yes; Forced: No; Force quiet: No
+2019-07-04	21:22:34:345	6192	1be4	COMAPI	  - Updates in request: 1
+2019-07-04	21:22:34:345	6192	1be4	COMAPI	  - ServiceID = {AF862BD9-E4A1-4D98-95CD-C34FC1A01C2D} Third party service
+2019-07-04	21:22:34:415	6192	1be4	COMAPI	  - Updates to install = 1
+2019-07-04	21:22:34:415	6192	1be4	COMAPI	<<-- SUBMITTED -- COMAPI: Install [ClientId = wusa]
+2019-07-04	21:22:34:415	 748	1bf8	Agent	*************
+2019-07-04	21:22:34:415	 748	1bf8	Agent	** START **  Agent: Installing updates [CallerId = wusa]
+2019-07-04	21:22:34:415	 748	1bf8	Agent	*********
+2019-07-04	21:22:34:415	 748	1bf8	Agent	  * Updates to install = 1
+2019-07-04	21:22:34:415	 748	1bf8	Agent	  *   Title = Windows 安全更新程序 (KB4015546)
+2019-07-04	21:22:34:415	 748	1bf8	Agent	  *   UpdateId = {17A57D91-B6D6-4882-AD35-3A3F313B2CD8}.501
+2019-07-04	21:22:34:415	 748	1bf8	Agent	  *     Bundles 1 updates:
+2019-07-04	21:22:34:415	 748	1bf8	Agent	  *       {C26D015C-969F-4B9E-9631-EAB89E338EFE}.501
+2019-07-04	21:22:34:605	 748	1bf8	Agent	WARNING: failed to calculate prior restore point time with error 0x80070002; setting restore point
+2019-07-04	21:23:03:017	 748	1bf8	Handler	Attempting to create remote handler process as USER-20190704VZ\Administrator in session 1
+2019-07-04	21:23:04:734	 748	1bf8	DnldMgr	Preparing update for install, updateId = {C26D015C-969F-4B9E-9631-EAB89E338EFE}.501.
+2019-07-04	21:23:04:744	5960	1774	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-04	21:23:04:744	5960	1774	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2019-07-04	21:23:04:744	5960	1774	Misc	  = Module: C:\Windows\system32\wuaueng.dll
+2019-07-04	21:23:04:734	5960	1774	Handler	:::::::::::::
+2019-07-04	21:23:04:744	5960	1774	Handler	:: START ::  Handler: CBS Install
+2019-07-04	21:23:04:744	5960	1774	Handler	:::::::::
+2019-07-04	21:23:04:744	5960	1774	Handler	Starting install of CBS update C26D015C-969F-4B9E-9631-EAB89E338EFE
+2019-07-04	21:23:04:874	5960	1774	Handler	CBS package identity: Package_for_KB4015546~31bf3856ad364e35~amd64~~6.1.1.3
+2019-07-04	21:23:04:884	5960	1774	Handler	Installing self-contained with source=C:\Windows\SoftwareDistribution\Download\d7406ee259807c3602f562b9ca7b4046\Windows6.1-KB4015546-x64.cab, workingdir=C:\Windows\SoftwareDistribution\Download\d7406ee259807c3602f562b9ca7b4046\inst
+2019-07-04	21:23:08:017	 748	bf0	Report	REPORT EVENT: {C345DE54-11AF-432B-919F-E0F3D6871B0A}	2019-07-04 21:23:03:016+0800	1	181	101	{17A57D91-B6D6-4882-AD35-3A3F313B2CD8}	501	0	wusa	Success	Content Install	Installation Started: Windows successfully started the following update: Windows 安全更新程序 (KB4015546)
+2019-07-04	21:25:08:499	5960	1774	Handler	Requesting post-reboot reporting for package Package_for_KB4015546~31bf3856ad364e35~amd64~~6.1.1.3.
+2019-07-04	21:25:08:500	5960	1774	Handler	Completed install of CBS update with type=3, requiresReboot=1, installerError=0, hr=0x0
+2019-07-04	21:25:08:500	5960	1774	Handler	:::::::::
+2019-07-04	21:25:08:500	5960	1774	Handler	::  END  ::  Handler: CBS Install
+2019-07-04	21:25:08:500	5960	1774	Handler	:::::::::::::
+2019-07-04	21:25:08:656	 748	1bf8	Agent	LogHistory called. idUpdate={17A57D91-B6D6-4882-AD35-3A3F313B2CD8}.501, resultMapped=80242014, resultUnMapped=0
+2019-07-04	21:25:08:875	 748	1bf8	Agent	*********
+2019-07-04	21:25:08:875	 748	1bf8	Agent	**  END  **  Agent: Installing updates [CallerId = wusa]
+2019-07-04	21:25:08:875	 748	1bf8	Agent	*************
+2019-07-04	21:25:08:877	 748	be0	AU	Can not perform non-interactive scan if AU is interactive-only
+2019-07-04	21:25:08:877	6192	880	COMAPI	>>--  RESUMED  -- COMAPI: Install [ClientId = wusa]
+2019-07-04	21:25:08:877	6192	880	COMAPI	  - Install call complete (succeeded = 1, succeeded with errors = 0, failed = 0, unaccounted = 0)
+2019-07-04	21:25:08:877	6192	880	COMAPI	  - Reboot required = Yes
+2019-07-04	21:25:08:877	6192	880	COMAPI	---------
+2019-07-04	21:25:08:877	6192	880	COMAPI	--  END  --  COMAPI: Install [ClientId = wusa]
+2019-07-04	21:25:08:877	6192	880	COMAPI	-------------
+2019-07-04	21:25:08:884	6192	1be4	COMAPI	-----------  COMAPI: IUpdateServiceManager::RemoveService  -----------
+2019-07-04	21:25:08:884	6192	1be4	COMAPI	  - ServiceId = {af862bd9-e4a1-4d98-95cd-c34fc1a01c2d}
+2019-07-04	21:25:09:161	6192	1be4	COMAPI	IUpdateService removing volatile scan package service, serviceID = {AF862BD9-E4A1-4D98-95CD-C34FC1A01C2D}
+2019-07-04	21:25:09:171	 748	11f4	Agent	WARNING: WU client fails CClientCallRecorder::RemoveService with error 0x80248014
+2019-07-04	21:25:09:171	6192	1be4	COMAPI	WARNING: ISusInternal::RemoveService failed, hr=80248014
+2019-07-04	21:25:11:260	6936	1b40	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-04	21:25:11:261	6936	1b40	Misc	  = Process: C:\Windows\SysWOW64\wusa.exe
+2019-07-04	21:25:11:261	6936	1b40	Misc	  = Module: C:\Windows\SysWOW64\wuapi.dll
+2019-07-04	21:25:11:260	6936	1b40	COMAPI	-----------  COMAPI: IUpdateServiceManager::AddScanPackageService  -----------
+2019-07-04	21:25:11:261	6936	1b40	COMAPI	  - ServiceName = Windows Update 独立安装程序
+2019-07-04	21:25:11:261	6936	1b40	COMAPI	  - ScanFileLocation = C:\31ec98bfb007bb69e012\wsusscan.cab
+2019-07-04	21:25:11:269	 748	1bf4	Misc	Validating signature for C:\Windows\SoftwareDistribution\ScanFile\d61808d4-5f5c-407a-9e32-d7bd7dd583a8\Source.cab with dwProvFlags 0x00000080:
+2019-07-04	21:25:11:282	 748	1bf4	Misc	 Microsoft signed: Yes
+2019-07-04	21:25:11:412	 748	1bf4	DtaStor	Default service for AU is {9482F4B4-E343-43B6-B170-9A65BC822C77}
+2019-07-04	21:25:11:413	6936	1b40	COMAPI	  - Added scan package service, ServiceID = {D61808D4-5F5C-407A-9E32-D7BD7DD583A8} Third party service
+2019-07-04	21:25:11:415	6936	1b40	COMAPI	-------------
+2019-07-04	21:25:11:415	6936	1b40	COMAPI	-- START --  COMAPI: Search [ClientId = wusa]
+2019-07-04	21:25:11:415	6936	1b40	COMAPI	---------
+2019-07-04	21:25:11:420	 748	bf0	Agent	*************
+2019-07-04	21:25:11:420	 748	bf0	Agent	** START **  Agent: Finding updates [CallerId = wusa]
+2019-07-04	21:25:11:420	 748	bf0	Agent	*********
+2019-07-04	21:25:11:420	 748	bf0	Agent	  * Online = Yes; Ignore download priority = No
+2019-07-04	21:25:11:420	 748	bf0	Agent	  * Criteria = "DeploymentAction='Installation'"
+2019-07-04	21:25:11:420	 748	bf0	Agent	  * ServiceID = {D61808D4-5F5C-407A-9E32-D7BD7DD583A8} Third party service
+2019-07-04	21:25:11:421	 748	bf0	Agent	  * Search Scope = {Machine}
+2019-07-04	21:25:11:421	6936	1b40	COMAPI	<<-- SUBMITTED -- COMAPI: Search [ClientId = wusa]
+2019-07-04	21:25:11:579	 748	bf0	PT	+++++++++++  PT: Synchronizing server updates  +++++++++++
+2019-07-04	21:25:11:579	 748	bf0	PT	  + Offline serviceId = {D61808D4-5F5C-407A-9E32-D7BD7DD583A8}
+2019-07-04	21:25:11:579	 748	bf0	PT	WARNING: Cached cookie has expired or new PID is available
+2019-07-04	21:25:22:406	 748	bf0	PT	+++++++++++  PT: Synchronizing extended update info  +++++++++++
+2019-07-04	21:25:22:406	 748	bf0	PT	  + Offline serviceId = {D61808D4-5F5C-407A-9E32-D7BD7DD583A8}
+2019-07-04	21:25:23:096	 748	bf0	Agent	  * Added update {6BA7607C-A3B5-4EA0-B42F-1446866C850E}.501 to search result
+2019-07-04	21:25:23:096	 748	bf0	Agent	  * Found 1 updates and 57 categories in search; evaluated appl. rules of 126 out of 259 deployed entities
+2019-07-04	21:25:23:106	 748	bf0	Agent	*********
+2019-07-04	21:25:23:106	 748	bf0	Agent	**  END  **  Agent: Finding updates [CallerId = wusa]
+2019-07-04	21:25:23:106	 748	bf0	Agent	*************
+2019-07-04	21:25:23:106	6936	a34	COMAPI	>>--  RESUMED  -- COMAPI: Search [ClientId = wusa]
+2019-07-04	21:25:23:575	6936	a34	COMAPI	  - Updates found = 1
+2019-07-04	21:25:23:575	6936	a34	COMAPI	  - Reboot required
+2019-07-04	21:25:23:575	6936	a34	COMAPI	---------
+2019-07-04	21:25:23:575	6936	a34	COMAPI	--  END  --  COMAPI: Search [ClientId = wusa]
+2019-07-04	21:25:23:575	6936	a34	COMAPI	-------------
+2019-07-04	21:25:23:591	 748	8bc	DnldMgr	***********  DnldMgr: Copy update to cache [UpdateId = {7F5EB2E6-FC33-4A56-8008-82CC83CA5516}.501]  ***********
+2019-07-04	21:25:23:627	 748	8bc	DnldMgr	Asking handler to generate non-range requests.
+2019-07-04	21:25:23:627	 748	8bc	Handler	Generating request for CBS update 7F5EB2E6-FC33-4A56-8008-82CC83CA5516 in sandbox C:\Windows\SoftwareDistribution\Download\587e861982b43daf1f1e1632262c632c_ctc
+2019-07-04	21:25:23:627	 748	8bc	Handler	Selecting self-contained because update does not have express payload.
+2019-07-04	21:25:23:627	 748	8bc	Handler	Selected payload type is ptSelfContained
+2019-07-04	21:25:23:627	 748	8bc	Handler	Detected download state is dsStart
+2019-07-04	21:25:23:627	 748	8bc	Handler	Adding Windows6.1-KB4022722-x64.cab (entire file) to request list.
+2019-07-04	21:25:23:628	 748	8bc	Handler	Request generation for CBS update complete with hr=0x0 and pfResetSandbox=0 
+2019-07-04	21:25:23:861	 748	8bc	Misc	Validating signature for C:\Windows\SoftwareDistribution\Download\587e861982b43daf1f1e1632262c632c_ctc\Windows6.1-KB4022722-x64.cab with dwProvFlags 0x00000080:
+2019-07-04	21:25:24:374	 748	8bc	Misc	 Microsoft signed: Yes
+2019-07-04	21:25:24:374	 748	8bc	DnldMgr	Asking handler to generate non-range requests.
+2019-07-04	21:25:24:374	 748	8bc	Handler	Generating request for CBS update 7F5EB2E6-FC33-4A56-8008-82CC83CA5516 in sandbox C:\Windows\SoftwareDistribution\Download\587e861982b43daf1f1e1632262c632c_ctc
+2019-07-04	21:25:24:374	 748	8bc	Handler	Selecting self-contained because update does not have express payload.
+2019-07-04	21:25:24:374	 748	8bc	Handler	Selected payload type is ptSelfContained
+2019-07-04	21:25:24:384	 748	8bc	Handler	Detected download state is dsHavePackage
+2019-07-04	21:25:24:384	 748	8bc	Handler	Request generation for CBS update complete with hr=0x0 and pfResetSandbox=0 
+2019-07-04	21:25:24:735	6936	1b40	COMAPI	-------------
+2019-07-04	21:25:24:735	6936	1b40	COMAPI	-- START --  COMAPI: Install [ClientId = wusa]
+2019-07-04	21:25:24:735	6936	1b40	COMAPI	---------
+2019-07-04	21:25:24:735	6936	1b40	COMAPI	  - Allow source prompts: Yes; Forced: No; Force quiet: No
+2019-07-04	21:25:24:735	6936	1b40	COMAPI	  - Updates in request: 1
+2019-07-04	21:25:24:735	6936	1b40	COMAPI	  - ServiceID = {D61808D4-5F5C-407A-9E32-D7BD7DD583A8} Third party service
+2019-07-04	21:25:24:735	 748	1bf8	Agent	*************
+2019-07-04	21:25:24:735	 748	1bf8	Agent	** START **  Agent: Installing updates [CallerId = wusa]
+2019-07-04	21:25:24:735	 748	1bf8	Agent	*********
+2019-07-04	21:25:24:735	 748	1bf8	Agent	  * Updates to install = 1
+2019-07-04	21:25:24:735	6936	1b40	COMAPI	  - Updates to install = 1
+2019-07-04	21:25:24:735	6936	1b40	COMAPI	<<-- SUBMITTED -- COMAPI: Install [ClientId = wusa]
+2019-07-04	21:25:24:735	 748	1bf8	Agent	  *   Title = Windows 安全更新程序 (KB4022722)
+2019-07-04	21:25:24:735	 748	1bf8	Agent	  *   UpdateId = {6BA7607C-A3B5-4EA0-B42F-1446866C850E}.501
+2019-07-04	21:25:24:735	 748	1bf8	Agent	  *     Bundles 1 updates:
+2019-07-04	21:25:24:735	 748	1bf8	Agent	  *       {7F5EB2E6-FC33-4A56-8008-82CC83CA5516}.501
+2019-07-04	21:25:59:886	 748	1bf8	Handler	Attempting to create remote handler process as USER-20190704VZ\Administrator in session 1
+2019-07-04	21:26:02:814	 748	1bf8	DnldMgr	Preparing update for install, updateId = {7F5EB2E6-FC33-4A56-8008-82CC83CA5516}.501.
+2019-07-04	21:26:02:822	3700	cf0	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-04	21:26:02:822	3700	cf0	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2019-07-04	21:26:02:822	3700	cf0	Misc	  = Module: C:\Windows\system32\wuaueng.dll
+2019-07-04	21:26:02:821	3700	cf0	Handler	:::::::::::::
+2019-07-04	21:26:02:822	3700	cf0	Handler	:: START ::  Handler: CBS Install
+2019-07-04	21:26:02:822	3700	cf0	Handler	:::::::::
+2019-07-04	21:26:02:829	3700	cf0	Handler	Starting install of CBS update 7F5EB2E6-FC33-4A56-8008-82CC83CA5516
+2019-07-04	21:26:02:942	3700	cf0	Handler	CBS package identity: Package_for_KB4022722~31bf3856ad364e35~amd64~~6.1.1.5
+2019-07-04	21:26:03:004	3700	cf0	Handler	Installing self-contained with source=C:\Windows\SoftwareDistribution\Download\587e861982b43daf1f1e1632262c632c\Windows6.1-KB4022722-x64.cab, workingdir=C:\Windows\SoftwareDistribution\Download\587e861982b43daf1f1e1632262c632c\inst
+2019-07-04	21:26:04:890	 748	bf0	Report	REPORT EVENT: {045D798E-B9AE-4D6A-9A11-2B8917C122E4}	2019-07-04 21:25:59:885+0800	1	181	101	{6BA7607C-A3B5-4EA0-B42F-1446866C850E}	501	0	wusa	Success	Content Install	Installation Started: Windows successfully started the following update: Windows 安全更新程序 (KB4022722)
+2019-07-04	21:27:36:931	3700	cf0	Handler	Requesting post-reboot reporting for package Package_for_KB4022722~31bf3856ad364e35~amd64~~6.1.1.5.
+2019-07-04	21:27:36:931	3700	cf0	Handler	Completed install of CBS update with type=3, requiresReboot=1, installerError=0, hr=0x0
+2019-07-04	21:27:36:931	3700	cf0	Handler	:::::::::
+2019-07-04	21:27:36:931	3700	cf0	Handler	::  END  ::  Handler: CBS Install
+2019-07-04	21:27:36:931	3700	cf0	Handler	:::::::::::::
+2019-07-04	21:27:36:931	 748	1bf8	Agent	LogHistory called. idUpdate={6BA7607C-A3B5-4EA0-B42F-1446866C850E}.501, resultMapped=80242014, resultUnMapped=0
+2019-07-04	21:27:36:941	 748	1bf8	Agent	*********
+2019-07-04	21:27:36:941	 748	be0	AU	Can not perform non-interactive scan if AU is interactive-only
+2019-07-04	21:27:36:941	 748	1bf8	Agent	**  END  **  Agent: Installing updates [CallerId = wusa]
+2019-07-04	21:27:36:941	 748	1bf8	Agent	*************
+2019-07-04	21:27:36:941	6936	1370	COMAPI	>>--  RESUMED  -- COMAPI: Install [ClientId = wusa]
+2019-07-04	21:27:36:941	6936	1370	COMAPI	  - Install call complete (succeeded = 1, succeeded with errors = 0, failed = 0, unaccounted = 0)
+2019-07-04	21:27:36:941	6936	1370	COMAPI	  - Reboot required = Yes
+2019-07-04	21:27:36:941	6936	1370	COMAPI	---------
+2019-07-04	21:27:36:941	6936	1370	COMAPI	--  END  --  COMAPI: Install [ClientId = wusa]
+2019-07-04	21:27:36:941	6936	1370	COMAPI	-------------
+2019-07-04	21:27:36:941	6936	1b40	COMAPI	-----------  COMAPI: IUpdateServiceManager::RemoveService  -----------
+2019-07-04	21:27:36:941	6936	1b40	COMAPI	  - ServiceId = {d61808d4-5f5c-407a-9e32-d7bd7dd583a8}
+2019-07-04	21:27:37:161	6936	1b40	COMAPI	IUpdateService removing volatile scan package service, serviceID = {D61808D4-5F5C-407A-9E32-D7BD7DD583A8}
+2019-07-04	21:27:37:161	 748	8bc	Agent	WARNING: WU client fails CClientCallRecorder::RemoveService with error 0x80248014
+2019-07-04	21:27:37:161	6936	1b40	COMAPI	WARNING: ISusInternal::RemoveService failed, hr=80248014
+2019-07-04	21:27:38:191	6372	580	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-04	21:27:38:191	6372	580	Misc	  = Process: C:\Windows\SysWOW64\wusa.exe
+2019-07-04	21:27:38:191	6372	580	Misc	  = Module: C:\Windows\SysWOW64\wuapi.dll
+2019-07-04	21:27:38:191	6372	580	COMAPI	-----------  COMAPI: IUpdateServiceManager::AddScanPackageService  -----------
+2019-07-04	21:27:38:191	6372	580	COMAPI	  - ServiceName = Windows Update 独立安装程序
+2019-07-04	21:27:38:191	6372	580	COMAPI	  - ScanFileLocation = C:\836e10b2bfb993eefe568853\wsusscan.cab
+2019-07-04	21:27:38:201	 748	1bf4	Misc	Validating signature for C:\Windows\SoftwareDistribution\ScanFile\2cd757d7-ada3-46b1-bd0c-b76f7533dd85\Source.cab with dwProvFlags 0x00000080:
+2019-07-04	21:27:38:211	 748	1bf4	Misc	 Microsoft signed: Yes
+2019-07-04	21:27:38:221	 748	1bf4	DtaStor	Default service for AU is {9482F4B4-E343-43B6-B170-9A65BC822C77}
+2019-07-04	21:27:38:221	6372	580	COMAPI	  - Added scan package service, ServiceID = {2CD757D7-ADA3-46B1-BD0C-B76F7533DD85} Third party service
+2019-07-04	21:27:38:221	6372	580	COMAPI	-------------
+2019-07-04	21:27:38:221	6372	580	COMAPI	-- START --  COMAPI: Search [ClientId = wusa]
+2019-07-04	21:27:38:221	6372	580	COMAPI	---------
+2019-07-04	21:27:38:231	 748	bf0	Agent	*************
+2019-07-04	21:27:38:231	 748	bf0	Agent	** START **  Agent: Finding updates [CallerId = wusa]
+2019-07-04	21:27:38:231	 748	bf0	Agent	*********
+2019-07-04	21:27:38:231	 748	bf0	Agent	  * Online = Yes; Ignore download priority = No
+2019-07-04	21:27:38:231	 748	bf0	Agent	  * Criteria = "DeploymentAction='Installation'"
+2019-07-04	21:27:38:231	 748	bf0	Agent	  * ServiceID = {2CD757D7-ADA3-46B1-BD0C-B76F7533DD85} Third party service
+2019-07-04	21:27:38:231	 748	bf0	Agent	  * Search Scope = {Machine}
+2019-07-04	21:27:38:231	6372	580	COMAPI	<<-- SUBMITTED -- COMAPI: Search [ClientId = wusa]
+2019-07-04	21:27:38:361	 748	bf0	PT	+++++++++++  PT: Synchronizing server updates  +++++++++++
+2019-07-04	21:27:38:361	 748	bf0	PT	  + Offline serviceId = {2CD757D7-ADA3-46B1-BD0C-B76F7533DD85}
+2019-07-04	21:27:38:361	 748	bf0	PT	WARNING: Cached cookie has expired or new PID is available
+2019-07-04	21:27:41:561	 748	bf0	PT	+++++++++++  PT: Synchronizing extended update info  +++++++++++
+2019-07-04	21:27:41:561	 748	bf0	PT	  + Offline serviceId = {2CD757D7-ADA3-46B1-BD0C-B76F7533DD85}
+2019-07-04	21:27:41:631	 748	bf0	Agent	  * Added update {72318C34-998A-4E1B-96D5-61718EBA2DEA}.501 to search result
+2019-07-04	21:27:41:631	 748	bf0	Agent	  * Found 1 updates and 57 categories in search; evaluated appl. rules of 126 out of 259 deployed entities
+2019-07-04	21:27:41:631	 748	bf0	Agent	*********
+2019-07-04	21:27:41:631	 748	bf0	Agent	**  END  **  Agent: Finding updates [CallerId = wusa]
+2019-07-04	21:27:41:631	 748	bf0	Agent	*************
+2019-07-04	21:27:41:631	6372	1858	COMAPI	>>--  RESUMED  -- COMAPI: Search [ClientId = wusa]
+2019-07-04	21:27:41:631	6372	1858	COMAPI	  - Updates found = 1
+2019-07-04	21:27:41:631	6372	1858	COMAPI	  - Reboot required
+2019-07-04	21:27:41:631	6372	1858	COMAPI	---------
+2019-07-04	21:27:41:631	6372	1858	COMAPI	--  END  --  COMAPI: Search [ClientId = wusa]
+2019-07-04	21:27:41:631	6372	1858	COMAPI	-------------
+2019-07-04	21:27:41:651	 748	4a0	DnldMgr	***********  DnldMgr: Copy update to cache [UpdateId = {D055590F-EF2E-4455-9525-69B7A6E64937}.501]  ***********
+2019-07-04	21:27:41:651	 748	4a0	DnldMgr	Asking handler to generate non-range requests.
+2019-07-04	21:27:41:651	 748	4a0	Handler	Generating request for CBS update D055590F-EF2E-4455-9525-69B7A6E64937 in sandbox C:\Windows\SoftwareDistribution\Download\81c5cbfb96630acd2baa9f9891db1604_ctc
+2019-07-04	21:27:41:651	 748	4a0	Handler	Selecting self-contained because update does not have express payload.
+2019-07-04	21:27:41:651	 748	4a0	Handler	Selected payload type is ptSelfContained
+2019-07-04	21:27:41:651	 748	4a0	Handler	Detected download state is dsStart
+2019-07-04	21:27:41:651	 748	4a0	Handler	Adding Windows6.1-KB4034679-x64.cab (entire file) to request list.
+2019-07-04	21:27:41:651	 748	4a0	Handler	Request generation for CBS update complete with hr=0x0 and pfResetSandbox=0 
+2019-07-04	21:27:41:901	 748	4a0	Misc	Validating signature for C:\Windows\SoftwareDistribution\Download\81c5cbfb96630acd2baa9f9891db1604_ctc\Windows6.1-KB4034679-x64.cab with dwProvFlags 0x00000080:
+2019-07-04	21:27:42:221	 748	4a0	Misc	 Microsoft signed: Yes
+2019-07-04	21:27:42:221	 748	4a0	DnldMgr	Asking handler to generate non-range requests.
+2019-07-04	21:27:42:221	 748	4a0	Handler	Generating request for CBS update D055590F-EF2E-4455-9525-69B7A6E64937 in sandbox C:\Windows\SoftwareDistribution\Download\81c5cbfb96630acd2baa9f9891db1604_ctc
+2019-07-04	21:27:42:221	 748	4a0	Handler	Selecting self-contained because update does not have express payload.
+2019-07-04	21:27:42:221	 748	4a0	Handler	Selected payload type is ptSelfContained
+2019-07-04	21:27:42:221	 748	4a0	Handler	Detected download state is dsHavePackage
+2019-07-04	21:27:42:221	 748	4a0	Handler	Request generation for CBS update complete with hr=0x0 and pfResetSandbox=0 
+2019-07-04	21:27:42:411	6372	580	COMAPI	-------------
+2019-07-04	21:27:42:411	6372	580	COMAPI	-- START --  COMAPI: Install [ClientId = wusa]
+2019-07-04	21:27:42:411	6372	580	COMAPI	---------
+2019-07-04	21:27:42:411	6372	580	COMAPI	  - Allow source prompts: Yes; Forced: No; Force quiet: No
+2019-07-04	21:27:42:411	6372	580	COMAPI	  - Updates in request: 1
+2019-07-04	21:27:42:411	6372	580	COMAPI	  - ServiceID = {2CD757D7-ADA3-46B1-BD0C-B76F7533DD85} Third party service
+2019-07-04	21:27:42:421	 748	1bf8	Agent	*************
+2019-07-04	21:27:42:421	 748	1bf8	Agent	** START **  Agent: Installing updates [CallerId = wusa]
+2019-07-04	21:27:42:421	 748	1bf8	Agent	*********
+2019-07-04	21:27:42:421	 748	1bf8	Agent	  * Updates to install = 1
+2019-07-04	21:27:42:421	6372	580	COMAPI	  - Updates to install = 1
+2019-07-04	21:27:42:421	6372	580	COMAPI	<<-- SUBMITTED -- COMAPI: Install [ClientId = wusa]
+2019-07-04	21:27:42:421	 748	1bf8	Agent	  *   Title = Windows 安全更新程序 (KB4034679)
+2019-07-04	21:27:42:421	 748	1bf8	Agent	  *   UpdateId = {72318C34-998A-4E1B-96D5-61718EBA2DEA}.501
+2019-07-04	21:27:42:421	 748	1bf8	Agent	  *     Bundles 1 updates:
+2019-07-04	21:27:42:421	 748	1bf8	Agent	  *       {D055590F-EF2E-4455-9525-69B7A6E64937}.501
+2019-07-04	21:28:14:481	 748	1bf8	Handler	Attempting to create remote handler process as USER-20190704VZ\Administrator in session 1
+2019-07-04	21:28:14:541	 748	1bf8	DnldMgr	Preparing update for install, updateId = {D055590F-EF2E-4455-9525-69B7A6E64937}.501.
+2019-07-04	21:28:14:541	4628	1128	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-04	21:28:14:541	4628	1128	Misc	  = Process: C:\Windows\system32\wuauclt.exe
+2019-07-04	21:28:14:541	4628	1128	Misc	  = Module: C:\Windows\system32\wuaueng.dll
+2019-07-04	21:28:14:541	4628	1128	Handler	:::::::::::::
+2019-07-04	21:28:14:541	4628	1128	Handler	:: START ::  Handler: CBS Install
+2019-07-04	21:28:14:541	4628	1128	Handler	:::::::::
+2019-07-04	21:28:14:551	4628	1128	Handler	Starting install of CBS update D055590F-EF2E-4455-9525-69B7A6E64937
+2019-07-04	21:28:14:611	4628	1128	Handler	CBS package identity: Package_for_KB4034679~31bf3856ad364e35~amd64~~6.1.1.4
+2019-07-04	21:28:14:631	4628	1128	Handler	Installing self-contained with source=C:\Windows\SoftwareDistribution\Download\81c5cbfb96630acd2baa9f9891db1604\Windows6.1-KB4034679-x64.cab, workingdir=C:\Windows\SoftwareDistribution\Download\81c5cbfb96630acd2baa9f9891db1604\inst
+2019-07-04	21:28:19:471	 748	bf0	Report	REPORT EVENT: {7DFF6D0F-7B9C-42EF-A001-BCBF89B54551}	2019-07-04 21:28:14:471+0800	1	181	101	{72318C34-998A-4E1B-96D5-61718EBA2DEA}	501	0	wusa	Success	Content Install	Installation Started: Windows successfully started the following update: Windows 安全更新程序 (KB4034679)
+2019-07-04	21:29:24:717	4628	1128	Handler	Requesting post-reboot reporting for package Package_for_KB4034679~31bf3856ad364e35~amd64~~6.1.1.4.
+2019-07-04	21:29:24:727	4628	1128	Handler	Completed install of CBS update with type=3, requiresReboot=1, installerError=0, hr=0x0
+2019-07-04	21:29:24:727	4628	1128	Handler	:::::::::
+2019-07-04	21:29:24:727	4628	1128	Handler	::  END  ::  Handler: CBS Install
+2019-07-04	21:29:24:727	4628	1128	Handler	:::::::::::::
+2019-07-04	21:29:24:997	 748	1bf8	Agent	LogHistory called. idUpdate={72318C34-998A-4E1B-96D5-61718EBA2DEA}.501, resultMapped=80242014, resultUnMapped=0
+2019-07-04	21:29:25:207	 748	1bf8	Agent	*********
+2019-07-04	21:29:25:207	 748	be0	AU	Can not perform non-interactive scan if AU is interactive-only
+2019-07-04	21:29:25:207	 748	1bf8	Agent	**  END  **  Agent: Installing updates [CallerId = wusa]
+2019-07-04	21:29:25:207	 748	1bf8	Agent	*************
+2019-07-04	21:29:25:207	6372	1b20	COMAPI	>>--  RESUMED  -- COMAPI: Install [ClientId = wusa]
+2019-07-04	21:29:25:217	6372	1b20	COMAPI	  - Install call complete (succeeded = 1, succeeded with errors = 0, failed = 0, unaccounted = 0)
+2019-07-04	21:29:25:217	6372	1b20	COMAPI	  - Reboot required = Yes
+2019-07-04	21:29:25:217	6372	1b20	COMAPI	---------
+2019-07-04	21:29:25:217	6372	1b20	COMAPI	--  END  --  COMAPI: Install [ClientId = wusa]
+2019-07-04	21:29:25:217	6372	1b20	COMAPI	-------------
+2019-07-04	21:29:25:217	6372	580	COMAPI	-----------  COMAPI: IUpdateServiceManager::RemoveService  -----------
+2019-07-04	21:29:25:217	6372	580	COMAPI	  - ServiceId = {2cd757d7-ada3-46b1-bd0c-b76f7533dd85}
+2019-07-04	21:29:25:417	6372	580	COMAPI	IUpdateService removing volatile scan package service, serviceID = {2CD757D7-ADA3-46B1-BD0C-B76F7533DD85}
+2019-07-04	21:29:25:417	 748	8bc	Agent	WARNING: WU client fails CClientCallRecorder::RemoveService with error 0x80248014
+2019-07-04	21:29:25:417	6372	580	COMAPI	WARNING: ISusInternal::RemoveService failed, hr=80248014
+2019-07-04	21:34:40:347	 748	be0	AU	Sending shutdown notification
+2019-07-04	21:34:40:347	 748	be0	AU	AU initiates service shutdown
+2019-07-04	21:34:40:347	 748	be0	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-04	21:34:40:363	 748	be0	Service	*********
+2019-07-04	21:34:40:363	 748	be0	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-04	21:34:40:363	 748	be0	Service	*************
+2019-07-04	21:40:43:821	1232	17cc	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-04	21:40:43:831	1232	17cc	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-04	21:40:43:831	1232	17cc	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-04	21:40:43:821	1232	17cc	Service	*************
+2019-07-04	21:40:43:831	1232	17cc	Service	** START **  Service: Service startup
+2019-07-04	21:40:43:831	1232	17cc	Service	*********
+2019-07-04	21:40:43:981	1232	17cc	Agent	  * WU client version 7.6.7601.23806
+2019-07-04	21:40:43:981	1232	17cc	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-04	21:40:43:991	1232	17cc	Agent	  * Access type: No proxy
+2019-07-04	21:40:44:001	1232	17cc	Agent	  * Network state: Connected
+2019-07-04	21:41:29:571	1232	17cc	Report	CWERReporter::Init succeeded
+2019-07-04	21:41:29:571	1232	17cc	Agent	***********  Agent: Initializing Windows Update Agent  ***********
+2019-07-04	21:41:29:571	1232	17cc	Agent	  * Prerequisite roots succeeded.
+2019-07-04	21:41:29:571	1232	17cc	Agent	***********  Agent: Initializing global settings cache  ***********
+2019-07-04	21:41:29:571	1232	17cc	Agent	  * WSUS server: <NULL>
+2019-07-04	21:41:29:571	1232	17cc	Agent	  * WSUS status server: <NULL>
+2019-07-04	21:41:29:571	1232	17cc	Agent	  * Target group: (Unassigned Computers)
+2019-07-04	21:41:29:571	1232	17cc	Agent	  * Windows Update access disabled: No
+2019-07-04	21:41:29:591	1232	17cc	DnldMgr	Download manager restoring 0 downloads
+2019-07-04	21:41:29:611	1232	17cc	Agent	Attempt 0 to obtain post-reboot results.
+2019-07-04	21:41:29:841	1232	17cc	Handler	Post-reboot status for package Package_for_KB4015546~31bf3856ad364e35~amd64~~6.1.1.3: 0x00000000.
+2019-07-04	21:41:29:931	1232	17cc	Handler	Post-reboot status for package Package_for_KB4022722~31bf3856ad364e35~amd64~~6.1.1.5: 0x00000000.
+2019-07-04	21:41:29:991	1232	17cc	Handler	Post-reboot status for package Package_for_KB4034679~31bf3856ad364e35~amd64~~6.1.1.4: 0x00000000.
+2019-07-04	21:41:30:911	1232	17cc	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-04	21:41:30:911	1232	17cc	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-04	21:41:30:911	1232	17cc	Report	  * OS Product Type = 0x00000001
+2019-07-04	21:41:30:941	1232	17cc	Report	  * Computer Brand = LENOVO
+2019-07-04	21:41:30:941	1232	17cc	Report	  * Computer Model = F0CHCTO1WW
+2019-07-04	21:41:30:941	1232	17cc	Report	  * Bios Revision = M12KT24A
+2019-07-04	21:41:30:941	1232	17cc	Report	  * Bios Name = hLENOVO BIOS Rev:M12KT24A 0.0
+2019-07-04	21:41:30:941	1232	17cc	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-04	21:41:30:941	1232	17cc	Report	  * Locale ID = 2052
+2019-07-04	21:41:31:051	1232	17cc	AU	###########  AU: Initializing Automatic Updates  ###########
+2019-07-04	21:41:31:061	1232	17cc	AU	  # AU is not configured yet
+2019-07-04	21:41:31:061	1232	17cc	AU	  # Will interact with non-admins (Non-admins are elevated (User preference))
+2019-07-04	21:41:31:061	1232	17cc	AU	  # Accelerated install is required
+2019-07-04	21:41:31:061	1232	17cc	AU	AU is not configured yet, generating timeout to launch setup wizard
+2019-07-04	21:41:31:071	1232	17cc	AU	Initializing featured updates
+2019-07-04	21:41:31:071	1232	17cc	AU	Found 0 cached featured updates
+2019-07-04	21:41:31:071	1232	17cc	AU	Successfully wrote event for AU health state:0
+2019-07-04	21:41:31:071	1232	17cc	AU	Successfully wrote event for AU health state:0
+2019-07-04	21:41:31:071	1232	17cc	AU	AU finished delayed initialization
+2019-07-04	21:41:36:041	1232	10e8	Report	REPORT EVENT: {F20D4BF0-D155-4B58-AD8F-16A204BD678D}	2019-07-04 21:41:31:041+0800	1	183	101	{72318C34-998A-4E1B-96D5-61718EBA2DEA}	501	0	wusa	Success	Content Install	Installation Successful: Windows successfully installed the following update: Windows 安全更新程序 (KB4034679)
+2019-07-04	21:41:36:051	1232	10e8	Report	REPORT EVENT: {333C9997-F92C-4D18-9484-A8BB79FE995E}	2019-07-04 21:41:31:041+0800	1	183	101	{6BA7607C-A3B5-4EA0-B42F-1446866C850E}	501	0	wusa	Success	Content Install	Installation Successful: Windows successfully installed the following update: Windows 安全更新程序 (KB4022722)
+2019-07-04	21:41:36:051	1232	10e8	Report	REPORT EVENT: {16F8FE48-D991-487F-9690-9E262EB2C54D}	2019-07-04 21:41:31:051+0800	1	183	101	{17A57D91-B6D6-4882-AD35-3A3F313B2CD8}	501	0	wusa	Success	Content Install	Installation Successful: Windows successfully installed the following update: Windows 安全更新程序 (KB4015546)
+2019-07-04	22:05:07:190	1232	1b54	AU	Successfully wrote event for AU health state:0
+2019-07-04	22:08:16:756	1232	1b54	AU	Can not perform non-interactive scan if AU is interactive-only
+2019-07-04	22:08:19:667	1232	1b54	AU	Successfully wrote event for AU health state:0
+2019-07-04	22:08:57:131	1232	2148	AU	Can not perform non-interactive scan if AU is interactive-only
+2019-07-05	11:17:05:845	1232	17cc	AU	Sending shutdown notification
+2019-07-05	11:17:05:845	1232	17cc	AU	AU initiates service shutdown
+2019-07-05	11:17:05:860	1232	17cc	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-05	11:17:05:891	1232	17cc	Service	*********
+2019-07-05	11:17:05:891	1232	17cc	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-05	11:17:05:891	1232	17cc	Service	*************
+2019-07-05	11:20:46:211	1456	e8c	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-05	11:20:46:227	1456	e8c	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-05	11:20:46:227	1456	e8c	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-05	11:20:46:211	1456	e8c	Service	*************
+2019-07-05	11:20:46:242	1456	e8c	Service	** START **  Service: Service startup
+2019-07-05	11:20:46:242	1456	e8c	Service	*********
+2019-07-05	11:20:46:383	1456	e8c	Agent	  * WU client version 7.6.7601.23806
+2019-07-05	11:20:46:383	1456	e8c	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-05	11:20:46:383	1456	e8c	Agent	  * Access type: No proxy
+2019-07-05	11:20:46:383	1456	e8c	Agent	  * Network state: Connected
+2019-07-05	11:21:32:044	1456	e8c	Report	CWERReporter::Init succeeded
+2019-07-05	11:21:32:044	1456	e8c	Agent	***********  Agent: Initializing Windows Update Agent  ***********
+2019-07-05	11:21:32:059	1456	e8c	Agent	  * Prerequisite roots succeeded.
+2019-07-05	11:21:32:059	1456	e8c	Agent	***********  Agent: Initializing global settings cache  ***********
+2019-07-05	11:21:32:059	1456	e8c	Agent	  * WSUS server: <NULL>
+2019-07-05	11:21:32:059	1456	e8c	Agent	  * WSUS status server: <NULL>
+2019-07-05	11:21:32:059	1456	e8c	Agent	  * Target group: (Unassigned Computers)
+2019-07-05	11:21:32:059	1456	e8c	Agent	  * Windows Update access disabled: No
+2019-07-05	11:21:32:075	1456	e8c	DnldMgr	Download manager restoring 0 downloads
+2019-07-05	11:21:32:075	1456	e8c	AU	###########  AU: Initializing Automatic Updates  ###########
+2019-07-05	11:21:32:091	1456	e8c	AU	  # AU is not configured yet
+2019-07-05	11:21:32:091	1456	e8c	AU	  # Will interact with non-admins (Non-admins are elevated (User preference))
+2019-07-05	11:21:32:091	1456	e8c	AU	  # Accelerated install is required
+2019-07-05	11:21:32:091	1456	e8c	AU	AU is not configured yet, generating timeout to launch setup wizard
+2019-07-05	11:21:32:091	1456	e8c	AU	Initializing featured updates
+2019-07-05	11:21:32:091	1456	e8c	AU	Found 0 cached featured updates
+2019-07-05	11:21:32:730	1456	e8c	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-05	11:21:32:730	1456	e8c	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-05	11:21:32:730	1456	e8c	Report	  * OS Product Type = 0x00000001
+2019-07-05	11:21:32:793	1456	e8c	Report	  * Computer Brand = LENOVO
+2019-07-05	11:21:32:793	1456	e8c	Report	  * Computer Model = F0CHCTO1WW
+2019-07-05	11:21:32:793	1456	e8c	Report	  * Bios Revision = M12KT24A
+2019-07-05	11:21:32:793	1456	e8c	Report	  * Bios Name = hLENOVO BIOS Rev:M12KT24A 0.0
+2019-07-05	11:21:32:793	1456	e8c	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-05	11:21:32:793	1456	e8c	Report	  * Locale ID = 2052
+2019-07-05	11:21:32:980	1456	e8c	AU	Successfully wrote event for AU health state:0
+2019-07-05	11:21:32:980	1456	e8c	AU	Successfully wrote event for AU health state:0
+2019-07-05	11:21:32:980	1456	e8c	AU	AU finished delayed initialization
+2019-07-05	11:24:00:650	1456	e8c	AU	Setting timeout for delay launching accelerated install
+2019-07-05	11:24:10:665	1456	e8c	AU	Triggering accelerated install by calling UpdateNow
+2019-07-05	11:24:10:665	1456	e8c	AU	Can not call UpdateNow if AU is not configured for auto download)
+2019-07-05	11:24:10:665	1456	e8c	AU	WARNING: UpdateNow for accelerated install failed with hr:80070005
+2019-07-05	11:24:10:665	1456	e8c	AU	Accelerate Install required state reset
+2019-07-05	11:24:10:665	1456	e8c	AU	#############
+2019-07-05	11:24:10:665	1456	e8c	AU	## START ##  AU: Download updates
+2019-07-05	11:24:10:665	1456	e8c	AU	#########
+2019-07-05	11:24:10:665	1456	e8c	AU	  # Found no download approved updates.
+2019-07-05	11:24:10:665	1456	e8c	AU	#########
+2019-07-05	11:24:10:665	1456	e8c	AU	##  END  ##  AU: Download updates
+2019-07-05	11:24:10:665	1456	e8c	AU	#############
+2019-07-05	11:32:51:532	1456	e8c	AU	Sending shutdown notification
+2019-07-05	11:32:51:532	1456	e8c	AU	AU initiates service shutdown
+2019-07-05	11:32:51:532	1456	e8c	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-05	11:32:51:563	1456	e8c	Service	*********
+2019-07-05	11:32:51:563	1456	e8c	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-05	11:32:51:563	1456	e8c	Service	*************
+2019-07-05	11:36:42:968	1300	840	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-05	11:36:43:018	1300	840	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-05	11:36:43:018	1300	840	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-05	11:36:42:968	1300	840	Service	*************
+2019-07-05	11:36:43:018	1300	840	Service	** START **  Service: Service startup
+2019-07-05	11:36:43:038	1300	840	Service	*********
+2019-07-05	11:36:43:188	1300	840	Agent	  * WU client version 7.6.7601.23806
+2019-07-05	11:36:43:188	1300	840	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-05	11:36:43:188	1300	840	Agent	  * Access type: No proxy
+2019-07-05	11:36:43:188	1300	840	Agent	  * Network state: Connected
+2019-07-05	11:37:28:788	1300	840	Report	CWERReporter::Init succeeded
+2019-07-05	11:37:28:788	1300	840	Agent	***********  Agent: Initializing Windows Update Agent  ***********
+2019-07-05	11:37:28:798	1300	840	Agent	  * Prerequisite roots succeeded.
+2019-07-05	11:37:28:798	1300	840	Agent	***********  Agent: Initializing global settings cache  ***********
+2019-07-05	11:37:28:798	1300	840	Agent	  * WSUS server: <NULL>
+2019-07-05	11:37:28:798	1300	840	Agent	  * WSUS status server: <NULL>
+2019-07-05	11:37:28:798	1300	840	Agent	  * Target group: (Unassigned Computers)
+2019-07-05	11:37:28:798	1300	840	Agent	  * Windows Update access disabled: No
+2019-07-05	11:37:28:818	1300	840	DnldMgr	Download manager restoring 0 downloads
+2019-07-05	11:37:28:828	1300	840	AU	###########  AU: Initializing Automatic Updates  ###########
+2019-07-05	11:37:28:828	1300	840	AU	  # AU is not configured yet
+2019-07-05	11:37:28:828	1300	840	AU	  # Will interact with non-admins (Non-admins are elevated (User preference))
+2019-07-05	11:37:28:828	1300	840	AU	AU is not configured yet, generating timeout to launch setup wizard
+2019-07-05	11:37:28:828	1300	840	AU	Initializing featured updates
+2019-07-05	11:37:28:828	1300	840	AU	Found 0 cached featured updates
+2019-07-05	11:37:29:738	1300	840	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-05	11:37:29:738	1300	840	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-05	11:37:29:738	1300	840	Report	  * OS Product Type = 0x00000001
+2019-07-05	11:37:29:778	1300	840	Report	  * Computer Brand = LENOVO
+2019-07-05	11:37:29:778	1300	840	Report	  * Computer Model = F0CHCTO1WW
+2019-07-05	11:37:29:788	1300	840	Report	  * Bios Revision = M12KT24A
+2019-07-05	11:37:29:788	1300	840	Report	  * Bios Name = hLENOVO BIOS Rev:M12KT24A 0.0
+2019-07-05	11:37:29:788	1300	840	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-05	11:37:29:788	1300	840	Report	  * Locale ID = 2052
+2019-07-05	11:37:29:898	1300	840	AU	Successfully wrote event for AU health state:0
+2019-07-05	11:37:29:898	1300	840	AU	Successfully wrote event for AU health state:0
+2019-07-05	11:37:29:898	1300	840	AU	AU finished delayed initialization
+2019-07-05	12:13:18:456	1300	840	AU	Sending shutdown notification
+2019-07-05	12:13:18:456	1300	840	AU	AU initiates service shutdown
+2019-07-05	12:13:18:456	1300	840	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-05	12:13:18:472	1300	840	Service	*********
+2019-07-05	12:13:18:472	1300	840	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-05	12:13:18:472	1300	840	Service	*************
+2019-07-05	12:17:55:057	 952	ea4	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-05	12:17:56:024	 952	ea4	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-05	12:17:56:180	 952	ea4	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-05	12:17:55:057	 952	ea4	Service	*************
+2019-07-05	12:17:56:414	 952	ea4	Service	** START **  Service: Service startup
+2019-07-05	12:17:57:007	 952	ea4	Service	*********
+2019-07-05	12:18:01:827	 952	ea4	Agent	  * WU client version 7.6.7601.23806
+2019-07-05	12:18:01:999	 952	ea4	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-05	12:18:01:999	 952	ea4	Agent	  * Access type: No proxy
+2019-07-05	12:18:01:999	 952	ea4	Agent	  * Network state: Connected
+2019-07-05	12:18:47:519	 952	ea4	Report	CWERReporter::Init succeeded
+2019-07-05	12:18:47:519	 952	ea4	Agent	***********  Agent: Initializing Windows Update Agent  ***********
+2019-07-05	12:18:47:519	 952	ea4	Agent	  * Prerequisite roots succeeded.
+2019-07-05	12:18:47:519	 952	ea4	Agent	***********  Agent: Initializing global settings cache  ***********
+2019-07-05	12:18:47:519	 952	ea4	Agent	  * WSUS server: <NULL>
+2019-07-05	12:18:47:519	 952	ea4	Agent	  * WSUS status server: <NULL>
+2019-07-05	12:18:47:519	 952	ea4	Agent	  * Target group: (Unassigned Computers)
+2019-07-05	12:18:47:519	 952	ea4	Agent	  * Windows Update access disabled: No
+2019-07-05	12:18:47:535	 952	ea4	DnldMgr	Download manager restoring 0 downloads
+2019-07-05	12:18:47:535	 952	ea4	AU	###########  AU: Initializing Automatic Updates  ###########
+2019-07-05	12:18:47:535	 952	ea4	AU	  # AU is not configured yet
+2019-07-05	12:18:47:535	 952	ea4	AU	  # Will interact with non-admins (Non-admins are elevated (User preference))
+2019-07-05	12:18:47:535	 952	ea4	AU	AU is not configured yet, generating timeout to launch setup wizard
+2019-07-05	12:18:47:535	 952	ea4	AU	Initializing featured updates
+2019-07-05	12:18:47:535	 952	ea4	AU	Found 0 cached featured updates
+2019-07-05	12:18:48:237	 952	ea4	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-05	12:18:48:237	 952	ea4	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-05	12:18:48:237	 952	ea4	Report	  * OS Product Type = 0x00000001
+2019-07-05	12:18:48:268	 952	ea4	Report	  * Computer Brand = LENOVO
+2019-07-05	12:18:48:268	 952	ea4	Report	  * Computer Model = F0CHCTO1WW
+2019-07-05	12:18:48:268	 952	ea4	Report	  * Bios Revision = M12KT24A
+2019-07-05	12:18:48:268	 952	ea4	Report	  * Bios Name = XLENOVO BIOS Rev:M12KT24A 0.0
+2019-07-05	12:18:48:268	 952	ea4	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-05	12:18:48:268	 952	ea4	Report	  * Locale ID = 2052
+2019-07-05	12:18:48:362	 952	ea4	AU	Successfully wrote event for AU health state:0
+2019-07-05	12:18:48:362	 952	ea4	AU	Successfully wrote event for AU health state:0
+2019-07-05	12:18:48:362	 952	ea4	AU	AU finished delayed initialization
+2019-07-05	20:55:16:593	 952	ea4	AU	Sending shutdown notification
+2019-07-05	20:55:16:593	 952	ea4	AU	AU initiates service shutdown
+2019-07-05	20:55:16:609	 952	ea4	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-05	20:55:16:609	 952	ea4	Service	*********
+2019-07-05	20:55:16:609	 952	ea4	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-05	20:55:16:609	 952	ea4	Service	*************
+2019-07-05	21:00:30:854	1036	ab4	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-05	21:00:33:241	1036	ab4	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-05	21:00:34:739	1036	ab4	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-05	21:00:30:854	1036	ab4	Service	*************
+2019-07-05	21:00:37:750	1036	ab4	Service	** START **  Service: Service startup
+2019-07-05	21:00:40:246	1036	ab4	Service	*********
+2019-07-05	21:00:58:997	1036	ab4	Agent	  * WU client version 7.6.7601.23806
+2019-07-05	21:01:00:510	1036	ab4	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-05	21:01:02:647	1036	ab4	Agent	  * Access type: No proxy
+2019-07-05	21:01:05:674	1036	ab4	Agent	  * Network state: Connected
+2019-07-05	21:02:31:084	1036	ab4	Report	CWERReporter::Init succeeded
+2019-07-05	21:02:31:084	1036	ab4	Agent	***********  Agent: Initializing Windows Update Agent  ***********
+2019-07-05	21:02:31:084	1036	ab4	Agent	  * Prerequisite roots succeeded.
+2019-07-05	21:02:31:084	1036	ab4	Agent	***********  Agent: Initializing global settings cache  ***********
+2019-07-05	21:02:31:084	1036	ab4	Agent	  * WSUS server: <NULL>
+2019-07-05	21:02:31:084	1036	ab4	Agent	  * WSUS status server: <NULL>
+2019-07-05	21:02:31:084	1036	ab4	Agent	  * Target group: (Unassigned Computers)
+2019-07-05	21:02:31:084	1036	ab4	Agent	  * Windows Update access disabled: No
+2019-07-05	21:02:31:162	1036	ab4	DnldMgr	Download manager restoring 0 downloads
+2019-07-05	21:02:31:193	1036	ab4	AU	###########  AU: Initializing Automatic Updates  ###########
+2019-07-05	21:02:31:193	1036	ab4	AU	  # AU is not configured yet
+2019-07-05	21:02:31:193	1036	ab4	AU	  # Will interact with non-admins (Non-admins are elevated (User preference))
+2019-07-05	21:02:31:193	1036	ab4	AU	AU is not configured yet, generating timeout to launch setup wizard
+2019-07-05	21:02:31:209	1036	ab4	AU	Initializing featured updates
+2019-07-05	21:02:31:209	1036	ab4	AU	Found 0 cached featured updates
+2019-07-05	21:02:33:720	1036	ab4	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-05	21:02:33:720	1036	ab4	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-05	21:02:33:720	1036	ab4	Report	  * OS Product Type = 0x00000001
+2019-07-05	21:02:33:767	1036	ab4	Report	  * Computer Brand = LENOVO
+2019-07-05	21:02:33:767	1036	ab4	Report	  * Computer Model = F0CHCTO1WW
+2019-07-05	21:02:33:767	1036	ab4	Report	  * Bios Revision = M12KT24A
+2019-07-05	21:02:33:767	1036	ab4	Report	  * Bios Name = XLENOVO BIOS Rev:M12KT24A 0.0
+2019-07-05	21:02:33:767	1036	ab4	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-05	21:02:33:767	1036	ab4	Report	  * Locale ID = 2052
+2019-07-05	21:02:34:235	1036	ab4	AU	Successfully wrote event for AU health state:0
+2019-07-05	21:02:34:235	1036	ab4	AU	Successfully wrote event for AU health state:0
+2019-07-05	21:02:34:251	1036	ab4	AU	AU finished delayed initialization
+2019-07-05	21:04:05:058	1036	870	AU	###########  AU: Setting new AU options  ###########
+2019-07-05	21:04:05:058	1036	870	AU	Setting AU Approval Type to 1
+2019-07-05	21:04:05:058	1036	870	AU	Successfully wrote event for AU health state:0
+2019-07-05	21:04:05:058	1036	870	AU	  # Policy changed, AU refresh required = Yes
+2019-07-05	21:04:05:058	1036	870	AU	  # AU disabled through User preference
+2019-07-05	21:04:05:058	1036	870	AU	AU Refresh required....
+2019-07-05	21:04:05:058	1036	870	AU	AU setting next featured software notification timeout to 2019-07-05 13:04:05
+2019-07-05	21:04:05:058	1036	870	AU	Successfully wrote event for AU health state:0
+2019-07-05	21:04:05:058	1036	870	AU	Can not perform non-interactive scan if AU is interactive-only
+2019-07-05	21:14:57:000	1036	ab4	AU	AU setting next sqm report timeout to 2019-07-06 13:14:57
+2019-07-05	21:15:46:773	1036	ab4	AU	AU received policy change subscription event
+2019-07-05	21:50:21:022	1036	ab4	AU	Sending shutdown notification
+2019-07-05	21:50:21:022	1036	ab4	AU	AU initiates service shutdown
+2019-07-05	21:50:21:022	1036	ab4	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-05	21:50:21:022	1036	ab4	Service	*********
+2019-07-05	21:50:21:022	1036	ab4	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-05	21:50:21:022	1036	ab4	Service	*************
+2019-07-05	21:54:42:687	1036	6e4	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-05	21:54:42:703	1036	6e4	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-05	21:54:42:703	1036	6e4	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-05	21:54:42:687	1036	6e4	Service	*************
+2019-07-05	21:54:42:703	1036	6e4	Service	** START **  Service: Service startup
+2019-07-05	21:54:42:719	1036	6e4	Service	*********
+2019-07-05	21:54:42:953	1036	6e4	Agent	  * WU client version 7.6.7601.23806
+2019-07-05	21:54:43:031	1036	6e4	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-05	21:54:43:031	1036	6e4	Agent	  * Access type: No proxy
+2019-07-05	21:54:43:062	1036	6e4	Agent	  * Network state: Connected
+2019-07-05	21:55:29:129	1036	6e4	Report	CWERReporter::Init succeeded
+2019-07-05	21:55:29:129	1036	6e4	Agent	***********  Agent: Initializing Windows Update Agent  ***********
+2019-07-05	21:55:29:129	1036	6e4	Agent	  * Prerequisite roots succeeded.
+2019-07-05	21:55:29:129	1036	6e4	Agent	***********  Agent: Initializing global settings cache  ***********
+2019-07-05	21:55:29:129	1036	6e4	Agent	  * WSUS server: <NULL>
+2019-07-05	21:55:29:129	1036	6e4	Agent	  * WSUS status server: <NULL>
+2019-07-05	21:55:29:129	1036	6e4	Agent	  * Target group: (Unassigned Computers)
+2019-07-05	21:55:29:129	1036	6e4	Agent	  * Windows Update access disabled: No
+2019-07-05	21:55:29:144	1036	6e4	DnldMgr	Download manager restoring 0 downloads
+2019-07-05	21:55:29:160	1036	6e4	AU	###########  AU: Initializing Automatic Updates  ###########
+2019-07-05	21:55:29:160	1036	6e4	AU	  # AU disabled through User preference
+2019-07-05	21:55:29:160	1036	6e4	AU	Initializing featured updates
+2019-07-05	21:55:29:160	1036	6e4	AU	Found 0 cached featured updates
+2019-07-05	21:55:29:753	1036	6e4	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-05	21:55:29:753	1036	6e4	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-05	21:55:29:753	1036	6e4	Report	  * OS Product Type = 0x00000001
+2019-07-05	21:55:29:784	1036	6e4	Report	  * Computer Brand = LENOVO
+2019-07-05	21:55:29:784	1036	6e4	Report	  * Computer Model = F0CHCTO1WW
+2019-07-05	21:55:29:799	1036	6e4	Report	  * Bios Revision = M12KT24A
+2019-07-05	21:55:29:799	1036	6e4	Report	  * Bios Name = XLENOVO BIOS Rev:M12KT24A 0.0
+2019-07-05	21:55:29:799	1036	6e4	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-05	21:55:29:799	1036	6e4	Report	  * Locale ID = 2052
+2019-07-05	21:55:29:924	1036	6e4	AU	Successfully wrote event for AU health state:0
+2019-07-05	21:55:29:924	1036	6e4	AU	Successfully wrote event for AU health state:0
+2019-07-05	21:55:29:924	1036	6e4	AU	AU finished delayed initialization
+2019-07-05	21:55:59:377	1036	6e4	AU	Sending shutdown notification
+2019-07-05	21:55:59:377	1036	6e4	AU	AU initiates service shutdown
+2019-07-05	21:55:59:377	1036	6e4	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-05	21:55:59:408	1036	6e4	Service	*********
+2019-07-05	21:55:59:408	1036	6e4	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-05	21:55:59:408	1036	6e4	Service	*************
+2019-07-05	21:59:00:567	1060	da0	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-05	21:59:00:583	1060	da0	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-05	21:59:00:583	1060	da0	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-05	21:59:00:567	1060	da0	Service	*************
+2019-07-05	21:59:00:583	1060	da0	Service	** START **  Service: Service startup
+2019-07-05	21:59:00:583	1060	da0	Service	*********
+2019-07-05	21:59:00:630	1060	da0	Agent	  * WU client version 7.6.7601.23806
+2019-07-05	21:59:00:630	1060	da0	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-05	21:59:00:630	1060	da0	Agent	  * Access type: No proxy
+2019-07-05	21:59:00:630	1060	da0	Agent	  * Network state: Connected
+2019-07-05	21:59:05:138	1060	da0	AU	Sending shutdown notification
+2019-07-05	21:59:05:138	1060	da0	AU	AU initiates service shutdown
+2019-07-05	21:59:05:201	1060	da0	Report	CWERReporter::Init succeeded
+2019-07-05	21:59:05:591	1060	da0	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-05	21:59:05:591	1060	da0	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-05	21:59:05:591	1060	da0	Report	  * OS Product Type = 0x00000001
+2019-07-05	21:59:05:606	1060	da0	Report	  * Computer Brand = LENOVO
+2019-07-05	21:59:05:606	1060	da0	Report	  * Computer Model = F0CHCTO1WW
+2019-07-05	21:59:05:606	1060	da0	Report	  * Bios Revision = M12KT24A
+2019-07-05	21:59:05:606	1060	da0	Report	  * Bios Name = XLENOVO BIOS Rev:M12KT24A 0.0
+2019-07-05	21:59:05:606	1060	da0	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-05	21:59:05:606	1060	da0	Report	  * Locale ID = 2052
+2019-07-05	21:59:05:715	1060	da0	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-05	21:59:05:762	1060	da0	Service	*********
+2019-07-05	21:59:05:762	1060	da0	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-05	21:59:05:762	1060	da0	Service	*************
+2019-07-06	09:26:21:946	1032	d28	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-06	09:26:21:964	1032	d28	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-06	09:26:21:964	1032	d28	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-06	09:26:21:946	1032	d28	Service	*************
+2019-07-06	09:26:21:964	1032	d28	Service	** START **  Service: Service startup
+2019-07-06	09:26:21:976	1032	d28	Service	*********
+2019-07-06	09:26:22:043	1032	d28	Agent	  * WU client version 7.6.7601.23806
+2019-07-06	09:26:22:043	1032	d28	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-06	09:26:22:043	1032	d28	Agent	  * Access type: No proxy
+2019-07-06	09:26:22:043	1032	d28	Agent	  * Network state: Connected
+2019-07-06	09:27:07:420	1032	d28	Report	CWERReporter::Init succeeded
+2019-07-06	09:27:07:420	1032	d28	Agent	***********  Agent: Initializing Windows Update Agent  ***********
+2019-07-06	09:27:07:422	1032	d28	Agent	  * Prerequisite roots succeeded.
+2019-07-06	09:27:07:422	1032	d28	Agent	***********  Agent: Initializing global settings cache  ***********
+2019-07-06	09:27:07:422	1032	d28	Agent	  * WSUS server: <NULL>
+2019-07-06	09:27:07:422	1032	d28	Agent	  * WSUS status server: <NULL>
+2019-07-06	09:27:07:422	1032	d28	Agent	  * Target group: (Unassigned Computers)
+2019-07-06	09:27:07:422	1032	d28	Agent	  * Windows Update access disabled: No
+2019-07-06	09:27:07:439	1032	d28	DnldMgr	Download manager restoring 0 downloads
+2019-07-06	09:27:07:447	1032	d28	AU	###########  AU: Initializing Automatic Updates  ###########
+2019-07-06	09:27:07:447	1032	d28	AU	  # AU disabled through User preference
+2019-07-06	09:27:07:447	1032	d28	AU	Initializing featured updates
+2019-07-06	09:27:07:447	1032	d28	AU	Found 0 cached featured updates
+2019-07-06	09:27:07:947	1032	d28	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-06	09:27:07:947	1032	d28	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-06	09:27:07:947	1032	d28	Report	  * OS Product Type = 0x00000001
+2019-07-06	09:27:07:978	1032	d28	Report	  * Computer Brand = LENOVO
+2019-07-06	09:27:07:978	1032	d28	Report	  * Computer Model = F0CHCTO1WW
+2019-07-06	09:27:07:978	1032	d28	Report	  * Bios Revision = M12KT24A
+2019-07-06	09:27:07:978	1032	d28	Report	  * Bios Name = LENOVO BIOS Rev:M12KT24A 0.0
+2019-07-06	09:27:07:978	1032	d28	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-06	09:27:07:978	1032	d28	Report	  * Locale ID = 2052
+2019-07-06	09:27:08:103	1032	d28	AU	Successfully wrote event for AU health state:0
+2019-07-06	09:27:08:103	1032	d28	AU	Successfully wrote event for AU health state:0
+2019-07-06	09:27:08:103	1032	d28	AU	AU finished delayed initialization
+2019-07-06	09:38:03:700	1032	d28	AU	Sending shutdown notification
+2019-07-06	09:38:03:700	1032	d28	AU	AU initiates service shutdown
+2019-07-06	09:38:03:700	1032	d28	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-06	09:38:03:700	1032	d28	Service	*********
+2019-07-06	09:38:03:700	1032	d28	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-06	09:38:03:700	1032	d28	Service	*************
+2019-07-06	12:25:31:714	1032	d04	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-06	12:25:31:761	1032	d04	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-06	12:25:31:761	1032	d04	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-06	12:25:31:714	1032	d04	Service	*************
+2019-07-06	12:25:31:761	1032	d04	Service	** START **  Service: Service startup
+2019-07-06	12:25:31:761	1032	d04	Service	*********
+2019-07-06	12:25:31:807	1032	d04	Agent	  * WU client version 7.6.7601.23806
+2019-07-06	12:25:31:807	1032	d04	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-06	12:25:31:807	1032	d04	Agent	  * Access type: No proxy
+2019-07-06	12:25:31:807	1032	d04	Agent	  * Network state: Connected
+2019-07-06	12:26:17:094	1032	d04	Report	CWERReporter::Init succeeded
+2019-07-06	12:26:17:094	1032	d04	Agent	***********  Agent: Initializing Windows Update Agent  ***********
+2019-07-06	12:26:17:094	1032	d04	Agent	  * Prerequisite roots succeeded.
+2019-07-06	12:26:17:094	1032	d04	Agent	***********  Agent: Initializing global settings cache  ***********
+2019-07-06	12:26:17:094	1032	d04	Agent	  * WSUS server: <NULL>
+2019-07-06	12:26:17:094	1032	d04	Agent	  * WSUS status server: <NULL>
+2019-07-06	12:26:17:094	1032	d04	Agent	  * Target group: (Unassigned Computers)
+2019-07-06	12:26:17:094	1032	d04	Agent	  * Windows Update access disabled: No
+2019-07-06	12:26:17:110	1032	d04	DnldMgr	Download manager restoring 0 downloads
+2019-07-06	12:26:17:110	1032	d04	AU	###########  AU: Initializing Automatic Updates  ###########
+2019-07-06	12:26:17:125	1032	d04	AU	  # AU disabled through User preference
+2019-07-06	12:26:17:125	1032	d04	AU	Initializing featured updates
+2019-07-06	12:26:17:125	1032	d04	AU	Found 0 cached featured updates
+2019-07-06	12:26:17:625	1032	d04	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-06	12:26:17:625	1032	d04	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-06	12:26:17:625	1032	d04	Report	  * OS Product Type = 0x00000001
+2019-07-06	12:26:17:671	1032	d04	Report	  * Computer Brand = LENOVO
+2019-07-06	12:26:17:671	1032	d04	Report	  * Computer Model = F0CHCTO1WW
+2019-07-06	12:26:17:671	1032	d04	Report	  * Bios Revision = M12KT24A
+2019-07-06	12:26:17:671	1032	d04	Report	  * Bios Name = LENOVO BIOS Rev:M12KT24A 0.0
+2019-07-06	12:26:17:671	1032	d04	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-06	12:26:17:671	1032	d04	Report	  * Locale ID = 2052
+2019-07-06	12:26:17:796	1032	d04	AU	Successfully wrote event for AU health state:0
+2019-07-06	12:26:17:796	1032	d04	AU	Successfully wrote event for AU health state:0
+2019-07-06	12:26:17:796	1032	d04	AU	AU finished delayed initialization
+2019-07-06	12:28:31:247	1032	d04	AU	Sending shutdown notification
+2019-07-06	12:28:31:247	1032	d04	AU	AU initiates service shutdown
+2019-07-06	12:28:31:247	1032	d04	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-06	12:28:31:325	1032	d04	Service	*********
+2019-07-06	12:28:31:325	1032	d04	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-06	12:28:31:325	1032	d04	Service	*************
+2019-07-06	12:32:07:245	1044	ee4	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-07-06	12:32:07:276	1044	ee4	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-07-06	12:32:07:276	1044	ee4	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-07-06	12:32:07:245	1044	ee4	Service	*************
+2019-07-06	12:32:07:276	1044	ee4	Service	** START **  Service: Service startup
+2019-07-06	12:32:07:276	1044	ee4	Service	*********
+2019-07-06	12:32:07:323	1044	ee4	Agent	  * WU client version 7.6.7601.23806
+2019-07-06	12:32:07:323	1044	ee4	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-07-06	12:32:07:323	1044	ee4	Agent	  * Access type: No proxy
+2019-07-06	12:32:07:323	1044	ee4	Agent	  * Network state: Connected
+2019-07-06	12:32:52:641	1044	ee4	Report	CWERReporter::Init succeeded
+2019-07-06	12:32:52:641	1044	ee4	Agent	***********  Agent: Initializing Windows Update Agent  ***********
+2019-07-06	12:32:52:641	1044	ee4	Agent	  * Prerequisite roots succeeded.
+2019-07-06	12:32:52:641	1044	ee4	Agent	***********  Agent: Initializing global settings cache  ***********
+2019-07-06	12:32:52:641	1044	ee4	Agent	  * WSUS server: <NULL>
+2019-07-06	12:32:52:641	1044	ee4	Agent	  * WSUS status server: <NULL>
+2019-07-06	12:32:52:641	1044	ee4	Agent	  * Target group: (Unassigned Computers)
+2019-07-06	12:32:52:641	1044	ee4	Agent	  * Windows Update access disabled: No
+2019-07-06	12:32:52:656	1044	ee4	DnldMgr	Download manager restoring 0 downloads
+2019-07-06	12:32:52:672	1044	ee4	AU	###########  AU: Initializing Automatic Updates  ###########
+2019-07-06	12:32:52:672	1044	ee4	AU	  # AU disabled through User preference
+2019-07-06	12:32:52:672	1044	ee4	AU	Initializing featured updates
+2019-07-06	12:32:52:672	1044	ee4	AU	Found 0 cached featured updates
+2019-07-06	12:32:53:187	1044	ee4	Report	***********  Report: Initializing static reporting data  ***********
+2019-07-06	12:32:53:187	1044	ee4	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-07-06	12:32:53:187	1044	ee4	Report	  * OS Product Type = 0x00000001
+2019-07-06	12:32:53:233	1044	ee4	Report	  * Computer Brand = LENOVO
+2019-07-06	12:32:53:233	1044	ee4	Report	  * Computer Model = F0CHCTO1WW
+2019-07-06	12:32:53:233	1044	ee4	Report	  * Bios Revision = M12KT24A
+2019-07-06	12:32:53:233	1044	ee4	Report	  * Bios Name = LENOVO BIOS Rev:M12KT24A 0.0
+2019-07-06	12:32:53:233	1044	ee4	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-07-06	12:32:53:233	1044	ee4	Report	  * Locale ID = 2052
+2019-07-06	12:32:53:374	1044	ee4	AU	Successfully wrote event for AU health state:0
+2019-07-06	12:32:53:374	1044	ee4	AU	Successfully wrote event for AU health state:0
+2019-07-06	12:32:53:374	1044	ee4	AU	AU finished delayed initialization
+2019-07-06	12:37:43:801	1044	ee4	AU	Sending shutdown notification
+2019-07-06	12:37:43:801	1044	ee4	AU	AU initiates service shutdown
+2019-07-06	12:37:43:801	1044	ee4	AU	###########  AU: Uninitializing Automatic Updates  ###########
+2019-07-06	12:37:43:801	1044	ee4	Service	*********
+2019-07-06	12:37:43:801	1044	ee4	Service	**  END  **  Service: Service exit [Exit code = 0x240001]
+2019-07-06	12:37:43:801	1044	ee4	Service	*************
+2019-12-09	07:19:05:383	1040	84c	Misc	===========  Logging initialized (build: 7.6.7601.23806, tz: +0800)  ===========
+2019-12-09	07:19:05:399	1040	84c	Misc	  = Process: C:\Windows\system32\svchost.exe
+2019-12-09	07:19:05:399	1040	84c	Misc	  = Module: c:\windows\system32\wuaueng.dll
+2019-12-09	07:19:05:383	1040	84c	Service	*************
+2019-12-09	07:19:05:399	1040	84c	Service	** START **  Service: Service startup
+2019-12-09	07:19:05:399	1040	84c	Service	*********
+2019-12-09	07:19:05:430	1040	84c	Agent	  * WU client version 7.6.7601.23806
+2019-12-09	07:19:05:430	1040	84c	Agent	  * Base directory: C:\Windows\SoftwareDistribution
+2019-12-09	07:19:05:430	1040	84c	Agent	  * Access type: No proxy
+2019-12-09	07:19:05:430	1040	84c	Agent	  * Network state: Connected
+2019-12-09	07:19:50:888	1040	84c	Report	CWERReporter::Init succeeded
+2019-12-09	07:19:50:888	1040	84c	Agent	***********  Agent: Initializing Windows Update Agent  ***********
+2019-12-09	07:19:50:888	1040	84c	Agent	  * Prerequisite roots succeeded.
+2019-12-09	07:19:50:888	1040	84c	Agent	***********  Agent: Initializing global settings cache  ***********
+2019-12-09	07:19:50:888	1040	84c	Agent	  * WSUS server: <NULL>
+2019-12-09	07:19:50:888	1040	84c	Agent	  * WSUS status server: <NULL>
+2019-12-09	07:19:50:888	1040	84c	Agent	  * Target group: (Unassigned Computers)
+2019-12-09	07:19:50:888	1040	84c	Agent	  * Windows Update access disabled: No
+2019-12-09	07:19:50:904	1040	84c	DnldMgr	Download manager restoring 0 downloads
+2019-12-09	07:19:50:919	1040	84c	AU	###########  AU: Initializing Automatic Updates  ###########
+2019-12-09	07:19:50:919	1040	84c	AU	AU setting next sqm report timeout to 2019-12-08 23:19:50
+2019-12-09	07:19:50:935	1040	84c	AU	  # AU disabled through User preference
+2019-12-09	07:19:50:935	1040	84c	AU	Initializing featured updates
+2019-12-09	07:19:50:935	1040	84c	AU	Found 0 cached featured updates
+2019-12-09	07:19:51:387	1040	84c	Report	***********  Report: Initializing static reporting data  ***********
+2019-12-09	07:19:51:387	1040	84c	Report	  * OS Version = 6.1.7601.1.0.65792
+2019-12-09	07:19:51:387	1040	84c	Report	  * OS Product Type = 0x00000001
+2019-12-09	07:19:51:419	1040	84c	Report	  * Computer Brand = LENOVO
+2019-12-09	07:19:51:419	1040	84c	Report	  * Computer Model = F0CHCTO1WW
+2019-12-09	07:19:51:419	1040	84c	Report	  * Bios Revision = M12KT24A
+2019-12-09	07:19:51:419	1040	84c	Report	  * Bios Name = LENOVO BIOS Rev:M12KT24A 0.0
+2019-12-09	07:19:51:419	1040	84c	Report	  * Bios Release Date = 2018-01-08T00:00:00
+2019-12-09	07:19:51:419	1040	84c	Report	  * Locale ID = 2052
+2019-12-09	07:19:51:543	1040	84c	AU	Successfully wrote event for AU health state:0
+2019-12-09	07:19:51:543	1040	84c	AU	Successfully wrote event for AU health state:0
+2019-12-09	07:19:51:543	1040	84c	AU	AU finished delayed initialization
+2019-12-09	07:19:51:543	1040	84c	AU	AU setting next sqm report timeout to 2019-12-09 23:19:51
